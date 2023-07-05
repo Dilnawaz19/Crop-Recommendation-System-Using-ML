@@ -1,4 +1,4 @@
-# Crop-Recommendation-System
+# Crop-Recommendation-System Using Machine Learning
 Problem Statement: Build a Predictive Model so as to suggest the most suitable Crops to grow based on the available Climatic and Soil conditions.
 
 Goal: Achieve Precision Farming by Optimizing the Agricultural Production.
