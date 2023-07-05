@@ -3,6 +3,6 @@ Problem Statement: Build a Predictive Model so as to suggest the most suitable C
 
 Goal: Achieve Precision Farming by Optimizing the Agricultural Production.
 This Project is intended on Precision Farming.
-->We have to Optimize Productivity.
-->By Understanding requirements of Climatic and Soil Conditions for Crops.
-->Helps us to Cope up with Weather Unpredictability.
+We have to Optimize Productivity.
+By Understanding requirements of Climatic and Soil Conditions for Crops.
+Helps us to Cope up with Weather Unpredictability.
